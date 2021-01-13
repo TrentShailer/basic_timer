@@ -1,0 +1,16 @@
+[package]
+name = "basic_timer"
+description = "A basic timer implementation for benchmarking"
+license = "MIT"
+version = "1.0.0"
+authors = ["Trent Shailer <trent.shailer@gmail.com>"]
+edition = "2018"
+readme = "README.md"
+homepage = "https://github.com/trentshailer/basic_timer"
+repository = "https://github.com/trentshailer/basic_timer"
+keywords = ["benchmark", "timer", "stopwatch", "basic", "easy", "lightweight"]
+categories = ["development-tools::cargo-plugins"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
